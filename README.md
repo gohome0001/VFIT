@@ -6,4 +6,4 @@ Can be used for...
 - franks 
 - etc.
 
-Will support AVI, MP4, MOV, WMV formats.
+Will support MPEG codec
