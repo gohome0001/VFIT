@@ -20,4 +20,4 @@ $ ffmpeg -i video -i image \
 
 ffmpeg is such a great tool..
 
-There will be no updates since 19/02/14
+There will be no meaningful update - 19/02/14
